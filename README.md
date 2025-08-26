@@ -1,4 +1,4 @@
-<h1 align="center">CardLayout UI 💳 </h1>
+<h1 align="center">Card Layout UI 💳 </h1>
 
 ## Project 🎯 
 
@@ -44,5 +44,5 @@ Exercise 02 - Mobile Device Programming: "CardLayout UI" is a user-friendly Andr
 ```kotlin
 fun main() {
     println("Code by Júnio Moreira!")
-    println("Welcome to the UpDown Control!")
+    println("Welcome to the CardLayout UI!")
 }
